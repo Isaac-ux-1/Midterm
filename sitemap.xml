@@ -2,7 +2,17 @@
 <urlset>
     <url>
         <loc>
-            http://localhost:8000/hello-world/
+            http://localhost:8000/the-magic-of-diwali-lighting-up-homes-and-hearts/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/diwali-feasts-a-celebration-of-sweets-and-treats/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/fireworks-gifts-and-family-gatherings-diwali-traditions/
         </loc>
     </url>
     <url>
@@ -12,12 +22,17 @@
     </url>
     <url>
         <loc>
-            http://localhost:8000/sample-page/
+            http://localhost:8000/contact-place-of-significance/
         </loc>
     </url>
     <url>
         <loc>
-            http://localhost:8000/category/uncategorized/
+            http://localhost:8000/ways-that-people-celebrate-diwali-2/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/category/ways-to-celebrate-diwali/
         </loc>
     </url>
     <url>
